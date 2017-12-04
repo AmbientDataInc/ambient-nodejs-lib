@@ -1,6 +1,6 @@
 {
   "name": "ambient-lib",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Ambient library. Ambient is a cloud service for IoT, Internet of Things. It receives sensor data, stores it and visualize them.",
   "main": "index.js",
   "scripts": {
