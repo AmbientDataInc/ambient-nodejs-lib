@@ -139,7 +139,7 @@ ambient.read({date: 'YYYY-mm-dd'}, function(err, res, data) {
 ```
 
 * パラメーター
- * date=’YYYY-mm-dd’: 指定した日付のデーターを読み込みます。
+ * date: ’YYYY-mm-dd’: 指定した日付のデーターを読み込みます。
 
 * 戻り値
  * 件数を指定した場合と同じJSON形式の配列が返されます。
@@ -153,8 +153,8 @@ ambient.read({start: 'YYYY-mm-dd HH:MM:SS', end: 'YYYY-mm-dd HH:MM:SS'}, functio
 ```
 
 * パラメーター
- * start=’YYYY-mm-dd HH:MM:SS’:
- * end=’YYYY-mm-dd HH:MM:SS’:
+ * start: ’YYYY-mm-dd HH:MM:SS’:
+ * end: ’YYYY-mm-dd HH:MM:SS’:
 startからendまでの期間のデーターを読み込みます。
 
 * 戻り値
