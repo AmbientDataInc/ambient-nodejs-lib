@@ -1,6 +1,6 @@
 {
   "name": "ambient-lib",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Ambient library. Ambient is a cloud service for IoT, Internet of Things. It receives sensor data, stores it and visualize them.",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AmbientDataInc/ambient-nodejs-lib#readme",
   "dependencies": {
-    "request": "^2.73.0"
+    "axios": "^0.21.1",
+    "qs": "^6.10.1"
   }
 }
