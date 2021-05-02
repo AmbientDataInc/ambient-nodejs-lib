@@ -1,6 +1,6 @@
 {
   "name": "ambient-lib",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "Ambient library. Ambient is a cloud service for IoT, Internet of Things. It receives sensor data, stores it and visualize them.",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TakehikoShimojima/ambient-nodejs-lib.git"
+    "url": "git+https://github.com/AmbientDataInc/ambient-nodejs-lib.git"
   },
   "author": "Takehiko Shimojima",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TakehikoShimojima/ambient-nodejs-lib/issues"
+    "url": "https://github.com/AmbientDataInc/ambient-nodejs-lib/issues"
   },
-  "homepage": "https://github.com/TakehikoShimojima/ambient-nodejs-lib#readme",
+  "homepage": "https://github.com/AmbientDataInc/ambient-nodejs-lib#readme",
   "dependencies": {
     "request": "^2.73.0"
   }
